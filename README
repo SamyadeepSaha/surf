@@ -8,6 +8,9 @@ In order to build surf you need GTK+ and Webkit/GTK+ header files.
 
 In order to use the functionality of the url-bar, also install dmenu[0].
 
+In order to play video install gstreamer, gst-plugins-good and gst-libav 
+(Multimedia graph framework).
+
 Installation
 ------------
 Edit config.mk to match your local setup (surf is installed into
